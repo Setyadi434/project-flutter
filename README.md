@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 >>>>>>> 1325962 (Initial commit)
 =======
 >>>>>>> 32ecd53 (Menambahkan fitur lupa password)
+# Deteksi-Penyakit-Kulit
